@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCSS", "WorkingWithCSS\WorkingWithCSS.csproj", "{4954CE1A-5089-4899-8797-F664D5A45B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithJavaScript", "WorkingWithJavaScript\WorkingWithJavaScript.csproj", "{5341DD9B-C13D-46DE-9B35-AB19E15BF685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionState", "SessionState\SessionState.csproj", "{A0757895-0A10-4DB8-B931-D18B06A8B362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4954CE1A-5089-4899-8797-F664D5A45B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4954CE1A-5089-4899-8797-F664D5A45B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4954CE1A-5089-4899-8797-F664D5A45B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4954CE1A-5089-4899-8797-F664D5A45B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5341DD9B-C13D-46DE-9B35-AB19E15BF685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5341DD9B-C13D-46DE-9B35-AB19E15BF685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5341DD9B-C13D-46DE-9B35-AB19E15BF685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5341DD9B-C13D-46DE-9B35-AB19E15BF685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0757895-0A10-4DB8-B931-D18B06A8B362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0757895-0A10-4DB8-B931-D18B06A8B362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0757895-0A10-4DB8-B931-D18B06A8B362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0757895-0A10-4DB8-B931-D18B06A8B362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D6C33A-2B63-4390-BF3F-1AB727880269}
+	EndGlobalSection
+EndGlobal
